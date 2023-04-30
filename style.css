@@ -1,0 +1,37 @@
+* {
+    background-color: rgb(193, 161, 223);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1, h2, p {
+    text-align: center;
+}
+
+a {
+    color:rgb(106, 95, 95);
+    font-size: large;
+    font-weight: 700;
+    
+}
+a:hover{
+    color: aqua;
+}
+
+.recipes {
+    background-color: rgb(246, 173, 95);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.container {
+    distplay: block;
+    margin-left: auto;
+    margin-right:auto;
+    max-width: 80%;
+  }
+ul.list-dots {
+    display: inline-block;
+    text-align: left;
+}
