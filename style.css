@@ -74,3 +74,6 @@ li.title {
 ol li {
     text-align: left;
 }
+.back-link {
+    margin-bottom: 0;
+}
